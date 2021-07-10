@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Linux-mint",
+            "includePath": [
+                "/usr/local/include/include/glad",
+                "/usr/local/include/GLFW",
+                "/home/paul/Desktop/LearnOpenGL/includes/learnopengl",
+                "/home/paul/Desktop/LearnOpenGL/configuration",
+                "/home/paul/Desktop/LearnOpenGL/includes"
+
+
+            ],
+            "intelliSenseMode": "linux-gcc-x64",
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
+}
